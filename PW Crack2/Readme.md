@@ -20,4 +20,5 @@ Download the password checker here and you'll need the encrypted flag in the sam
 
 
 按執行 輸入文中密碼 flag就出來了
-="截圖 2022-04-14 下午9 25 15" src="https://user-images.githubusercontent.com/74231280/163400334-abf11faf-aa8c-409e-8f4b-f779754f5b84.png">
+
+<img width="520" alt="截圖 2022-04-14 下午9 25 15" src="https://user-images.githubusercontent.com/74231280/163400600-f2f57810-1db7-4a05-85ad-55a9d120ee0d.png">
