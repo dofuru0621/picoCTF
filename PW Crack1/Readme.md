@@ -3,10 +3,10 @@
 Can you crack the password to get the flag?
 Download the password checker here and you'll need the encrypted flag in the same directory too.
 
-< Hint  
-< 1.To view the file in the webshell, do: $ nano level1.py  
-< 2.To exit nano, press Ctrl and x and follow the on-screen prompts  
-< 3.The str_xor function does not need to be reverse engineered for this challenge  
+> Hint  
+> 1.To view the file in the webshell, do: $ nano level1.py  
+> 2.To exit nano, press Ctrl and x and follow the on-screen prompts  
+> 3.The str_xor function does not need to be reverse engineered for this challenge  
 
 附檔：1.level1.py  2.level1.flag.txt.enc
 # 解法
