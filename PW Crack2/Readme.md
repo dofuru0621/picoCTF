@@ -11,7 +11,7 @@ Download the password checker here and you'll need the encrypted flag in the sam
 # 解法
 這題跟第一題幾乎一樣 只有密碼的地方不一樣！
 
-![Uploading 截圖 2022-04-14 下午9.10.16.png…]()
+<img width="964" alt="截圖 2022-04-14 下午9 10 16" src="https://user-images.githubusercontent.com/74231280/163400470-08f535b0-3bfa-42b0-b184-b2d5c965ed07.png">
 
 我們只要在空白處多一行
 
@@ -20,5 +20,4 @@ Download the password checker here and you'll need the encrypted flag in the sam
 
 
 按執行 輸入文中密碼 flag就出來了
-<img width="376" alt="截圖 2022-04-14 下午9 12 47" src="https://user-images.githubusercontent.com/74231280/163400060-3842f05a-c5ff-4e6b-9f97-b4675d834daf.png">
-<img width="520" alt="截圖 2022-04-14 下午9 25 15" src="https://user-images.githubusercontent.com/74231280/163400334-abf11faf-aa8c-409e-8f4b-f779754f5b84.png">
+="截圖 2022-04-14 下午9 25 15" src="https://user-images.githubusercontent.com/74231280/163400334-abf11faf-aa8c-409e-8f4b-f779754f5b84.png">
